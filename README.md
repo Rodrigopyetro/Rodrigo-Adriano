@@ -4,7 +4,10 @@
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/rodrigo-adriano-20510740/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" 
+    src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"
+    src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
+    />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
