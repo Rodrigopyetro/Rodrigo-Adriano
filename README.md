@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/rodrigo-adriano-20510740/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" 
     src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/linkedin.png" />
-    />
+   
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
